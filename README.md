@@ -7,7 +7,7 @@ I like to use [fatiherikli](https://github.com/fatiherikli)'s [Brainfuck visuali
 
 <br>
 
-## Menu
+## Algorithms
 > Currently empty
 
 Get your brain fucked and contribute :rage: :alien: :pouting_cat:
