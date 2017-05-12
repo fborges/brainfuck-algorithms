@@ -3,7 +3,7 @@ A project to keep track of algorithms written in the interesting esoteric langua
 
 ## Usage
 
-I like to use this (Brainfuck visualizer)[https://fatiherikli.github.io/brainfuck-visualizer/] << Try it
+I like to use this [Brainfuck visualizer](https://fatiherikli.github.io/brainfuck-visualizer/) << Try it
 
 <br>
 
