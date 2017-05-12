@@ -4,4 +4,4 @@ A project to keep track of algorithms written in the interesting esoteric langua
 ## Menu
 > Currently empty
 
->>> Get your brain fucked and contribute :rage: :rage: :rage:
+Get your brain fucked and contribute :rage: :alien: :pouting_cat:
