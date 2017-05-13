@@ -8,7 +8,7 @@ I like to use [fatiherikli](https://github.com/fatiherikli)'s [Brainfuck visuali
 <br>
 
 ## Algorithms
-> Currently empty
+- [Sum](https://github.com/feliborgez/brainfuck-algorithms/tree/master/sum)
 
 <br>
 
