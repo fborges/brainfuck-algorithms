@@ -12,4 +12,4 @@ I like to use [fatiherikli](https://github.com/fatiherikli)'s [Brainfuck visuali
 
 <br>
 
-Get your brain fucked and contribute :rage: :alien: :pouting_cat:
+Get your brain fucked and contribute :rage: :alien: :stuck_out_tongue_closed_eyes: :pouting_cat:
